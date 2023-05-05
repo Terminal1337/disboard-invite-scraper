@@ -3,13 +3,13 @@ Scrape Servers Off Disboard with Ease!!
 
 ![image](https://user-images.githubusercontent.com/95563109/236413451-72b03772-2aed-49b6-ac87-707e555f1a64.png)
 
-**Pre Requirements :-**
+`Pre Requirements :-`
 ```
 pip install -r requirements.txt
 ```
 
+`Setting Up config.json`
 ```
-Setting Up config.json
 -> Cloudflare :-
 * Challenged - true (if getting challenged by cf
 * user_agent - your browser useragent
@@ -27,4 +27,8 @@ Setting Up config.json
 * proxy_type : "http" (only supported as of now)
 ```
 
-
+`Contact`
+```
+Telegram : https://t.me/rateIimits
+Discord : Terminal#0666
+```

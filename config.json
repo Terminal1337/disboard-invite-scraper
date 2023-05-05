@@ -1,0 +1,18 @@
+{
+    "cloudflare": {
+        "challenged": false,
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+    },
+    "settings": {
+        "tag": "gaming",
+        "limit": 10,
+        "threads": 40,
+        "discord_mode": false,
+        "debug": false
+        
+    },
+    "proxy":{
+        "use_proxy" : true,
+        "proxy_type" : "http"
+    }
+}

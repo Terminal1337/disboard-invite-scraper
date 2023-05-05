@@ -11,7 +11,7 @@ pip install -r requirements.txt
 `Setting Up config.json`
 ```
 -> Cloudflare :-
-* Challenged - true (if getting challenged by cf
+* Challenged - true (if getting challenged by cf)
 * user_agent - your browser useragent
 * how to get cloudflare cookie?
 - Open Disboard on browser -> go to network tab -> request headers -> cookie -> copy value

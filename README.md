@@ -31,4 +31,5 @@ pip install -r requirements.txt
 ```
 Telegram : https://t.me/rateIimits
 Discord : Terminal#0666
+Discord Server : discord.gg/switchuwu
 ```
